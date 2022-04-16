@@ -7,7 +7,7 @@ O documento atual é referente ao treinamento de banco de dados não relacional 
 
 #2 - INSERÇÃO DE DADOS
 
-#3 - PESQUISA DE DADOS TOTAL E PARCIAL COM UMA DEFINIÇAÕ ESPECÍFICA
+#3 - PESQUISA DE DADOS TOTAL E PARCIAL COM UMA DEFINIÇÃO ESPECÍFICA
 
 #4 - REMOÇÃO DE DADOS
 
