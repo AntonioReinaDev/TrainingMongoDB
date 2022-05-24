@@ -1,77 +1,77 @@
 [
 {
-	"nome" : "Guilherme",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5882133, -46.63235580000003]}
+	"name" : "Guilherme",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5882133, -46.63235580000003]}
 },{
-	"nome" : "Paulo",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5707855, -46.643499399999996]}
+	"name" : "Paulo",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5707855, -46.643499399999996]}
 },
 {
-	"nome" : "Ana",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5829461, -46.6315126]}
+	"name" : "Ana",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5829461, -46.6315126]}
 },
 {
-	"nome" : "Carlos",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5834181, -46.6418552]}
+	"name" : "Carlos",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5834181, -46.6418552]}
 },
 {
-	"nome" : "Lúcia",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5702415, -46.635375]}
+	"name" : "Lúcia",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5702415, -46.635375]}
 },
 {
-	"nome" : "Stella",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5623743, -46.6478634]}
+	"name" : "Stella",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5623743, -46.6478634]}
 },
 {
-	"nome" : "Daniela",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5690615, -46.6592789]}
+	"name" : "Daniela",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5690615, -46.6592789]}
 },
 {
-	"nome" : "Eduardo",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5552147, -46.6574764]}
+	"name" : "Eduardo",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5552147, -46.6574764]}
 },
 {
-	"nome" : "Felipe",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5606041, -46.6663599]}
+	"name" : "Felipe",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5606041, -46.6663599]}
 },
 {
-	"nome" : "Marco",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5625317, -46.6686773]}
+	"name" : "Marco",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5625317, -46.6686773]}
 },
 {
-	"nome" : "Mariana",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5617056, -46.662454600000004]}
+	"name" : "Mariana",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5617056, -46.662454600000004]}
 },
 {
-	"nome" : "Juliana",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5578111, -46.6656303]}
+	"name" : "Juliana",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5578111, -46.6656303]}
 },
 {
-	"nome" : "Adriana",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5653639, -46.661725]}
+	"name" : "Adriana",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5653639, -46.661725]}
 },
 {
-	"nome" : "Roberto",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5549787, -46.6588497]}
+	"name" : "Roberto",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5549787, -46.6588497]}
 },
 {
-	"nome" : "Marcelo",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5640265, -46.6527128]}
+	"name" : "Marcelo",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5640265, -46.6527128]}
 },
 {
-	"nome" : "Sofia",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5673307, -46.6529703]}
+	"name" : "Sofia",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5673307, -46.6529703]}
 },
 {
-	"nome" : "Sheila",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5672914, -46.6462326]}
+	"name" : "Sheila",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5672914, -46.6462326]}
 },
 {
-	"nome" : "William",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5803502, -46.6352892]}
+	"name" : "William",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5803502, -46.6352892]}
 },
 {
-	"nome" : "Manoela",
-	"localizacao" : { "type" : "Point", "coordinates" : [-23.5831428, -46.6334867]}
+	"name" : "Manoela",
+	"localization" : { "type" : "Point", "coordinates" : [-23.5831428, -46.6334867]}
 }
 ]
